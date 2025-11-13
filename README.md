@@ -9,6 +9,7 @@ This repository contains my implementation and analysis of two Quicksort algorit
 Install Python 3 on your system.
 Clone the repository to your computer using the green Code button on GitHub.
 Open a terminal or command prompt inside the project folder.
+
 Run the program using: python3 quicksort_analysis.py
 
 The script will run both Quicksort algorithms on multiple input sizes and data distributions and will print average runtime results in a formatted table.
